@@ -3,9 +3,9 @@
 This program is used to calculate the distillation profile for mixture of two crude oil.
 
 Usage Syntax:
-
+```
 python main.py --crudeone <symbol for crude> --crudetwo <symbol for crude> --outfile <path to outputfile>
-
+```
 Example:
 
 ```
